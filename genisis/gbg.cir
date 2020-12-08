@@ -1,0 +1,12 @@
+.title KiCad schematic
+U1 Net-_2.2uH1-Pad1_ Net-_2.2uH1-Pad1_ Net-_2.2uH1-Pad1_ Net-_R1-Pad2_ GND GND GND GND Net-_C3-Pad1_ Net-_C1-Pad1_ Net-_C1-Pad1_ Net-_C1-Pad1_ Net-_C1-Pad1_ Net-_2.2uH1-Pad2_ GND GND NC_01 TPS62142
+C3 Net-_C3-Pad1_ GND 3.3nF
+C2 Net-_C1-Pad1_ GND 10uF
+C4 Net-_2.2uH1-Pad2_ GND 22uF
+R1 Net-_2.2uH1-Pad2_ Net-_R1-Pad2_ 100k
+L2.2uH1 Net-_2.2uH1-Pad1_ Net-_2.2uH1-Pad2_ 2.2uH
+C1 Net-_C1-Pad1_ GND 0.01uF
+V1 Net-_C1-Pad1_ GND dc 12
+MES1 GND Net-_2.2uH1-Pad2_ Voltmeter_DC
+C5 NC_02 NC_03 0.01uF
+.end
